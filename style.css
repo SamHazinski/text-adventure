@@ -1,0 +1,28 @@
+button {
+    display:block;
+    margin-top: 10px;
+    background-color: black;
+    color:#fe2737;
+    /* that one red that goes with that one light blue I like
+    */
+}
+body {
+    background-color: black;
+    color:#37e1fe; 
+    /*that one light blue I like
+    */
+}
+
+input {
+    background-color: black;
+    color:#fe2737;
+    
+}
+
+h1 {
+    color:#fe2737;
+}
+
+img {
+    width: 500px;
+  }
